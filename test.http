@@ -1,5 +1,6 @@
+
 #@url = https://miau333.azurewebsites.net
-@url = http://localhost:5000
+@url = https://paastest01sk.azurewebsites.net
 
 ### Get all students
 
